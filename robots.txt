@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://lgo55win.ataulm.com/sitemap.xml
